@@ -42,6 +42,3 @@ You will build a map of the best bird-watching sites for the three different tra
 * Likes cool weather
 * Looking for higher-altitude bird flights
 
-
-
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Milestone-2ProjectBird_Tracking/TheFrenchTraveler?:language=en-US&:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe> 
