@@ -1,4 +1,4 @@
-<h1>Bird Tracking</h1>
+<h1 align="center">Bird Tracking</h1>
 
 
 
