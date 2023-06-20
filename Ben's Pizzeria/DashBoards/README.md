@@ -46,7 +46,7 @@
 
 
 <p> 
-  Here are the Dashboards I created to satisfy the requirements:
+  <h2 align="center">Here are the Dashboards I created to satisfy the requirements:</h2>
   <P align="center">
     <img src="Pizzeria - Dashboard Images/Pizzeria - Dashboard-2.png">
     <img src="Pizzeria - Dashboard Images/Pizzeria - Dashboard-3.png">
