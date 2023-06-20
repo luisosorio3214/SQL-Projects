@@ -2,6 +2,7 @@
 <h1 align="center">Client Brief</h1>
 
 <p align="center">
+  <h2>Ben's Pizzeria Menu</h2>
   <img src="Bens Pizzeria Images/Ben's Pizzera.PNG" title="Ben's Pizzeria Menu">
 </p>
 
@@ -27,7 +28,7 @@
   <ol>
     <li>Wants to be able to know when it’s time to order new stock</li>
     <li>
-      To do this we’re going to need more information about
+      To do this we’re going to need more information about:
       <ol>
         <li>What ingredients go into each pizza</li>
         <li>Their quantity based on the size of the pizza</li>
@@ -45,7 +46,7 @@
   
 </p>
 
-
-<h2 align="center">Data Model I created to satisfy the requirements:</h2>
-
-<img src="Bens Pizzeria Images/Pizzeria_Schema.PNG" title="Ben's Pizzeria Schema">
+<p align="center">
+  <h2>Data Model I created to satisfy the requirements:</h2>
+  <img src="Bens Pizzeria Images/Pizzeria_Schema.PNG" title="Ben's Pizzeria Schema">
+</p>
