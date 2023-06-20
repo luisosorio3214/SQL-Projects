@@ -1,5 +1,5 @@
 <h1 align="center">Ben's Pizzeria Dashboard</h1>
-<h1 align="center">Requirements</h1>
+<h1 align="center">Client Requirements</h1>
 
 <p>
   <h3>Dashboard 1 - Order Activity:</h3>
