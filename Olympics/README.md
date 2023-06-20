@@ -2,7 +2,7 @@
 <h2 align="center">SQL Statements</h2>
 
 <h3>Data Set Info:</h3>
-Contains basic bio data on athletes and medal results from Athens 1896 to Rio 2016.  The data set can be downloaded from Kaggle at this link.  Note that the Winter and Summer Games were held in the same year up until 1992. After that, they staggered them such that Winter Games occur on a four-year cycle starting with 1994, then Summer in 1996, then Winter in 1998, and so on. A common mistake people make when analyzing this data is to assume that the Summer and Winter Games have always been staggered.
+Contains basic bio data on athletes and medal results from Athens 1896 to Rio 2016.  The data set can be downloaded from Kaggle at this <a href="https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results" target="_blank">link</a>.  Note that the Winter and Summer Games were held in the same year up until 1992. After that, they staggered them such that Winter Games occur on a four-year cycle starting with 1994, then Summer in 1996, then Winter in 1998, and so on. A common mistake people make when analyzing this data is to assume that the Summer and Winter Games have always been staggered.
 
 <h3>List of all these 20 queries mentioned below:</h3>
 
