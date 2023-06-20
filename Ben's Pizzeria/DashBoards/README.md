@@ -3,7 +3,7 @@
 
 <p>
   <h3>Dashboard 1 - Order Activity:</h3>
-  For this, we will need a dashboard with the following data: <br/>
+  For this, we will need a dashboard with the following data: /
   <ol>
     <li>Total Orders</li>
     <li>Total Sales</li>
@@ -18,7 +18,7 @@
   </ol>
 
   <h3>Dashboard 2 – Inventory Management:</h3>
-  This will be a lot more complicated than the orders. Mainly because we need to calculate how much inventory we’re using and then identify inventory that needs reordering. We   also want to calculate how much each pizza costs to make based on the cost of the ingredients so we can keep an eye on pricing and P/L. Here is what we need: <br/>
+  This will be a lot more complicated than the orders. Mainly because we need to calculate how much inventory we’re using and then identify inventory that needs reordering. We   also want to calculate how much each pizza costs to make based on the cost of the ingredients so we can keep an eye on pricing and P/L. Here is what we need: /
   <ol>
     <li>Total Quantity By Ingredients</li>
     <li>Total Cost of Ingredients</li>
@@ -28,7 +28,7 @@
 
   
   <h3>Dashboard 3 – Staff:</h3>
-  By far the simplest part of the requirements, we want to be able to monitor who was working on any given day or shift and what our overall staff costs are. <br/>
+  By far the simplest part of the requirements, we want to be able to monitor who was working on any given day or shift and what our overall staff costs are. /
   <ol>
     <li>Total Staff Costs</li>
     <li>Total Hours Worked</li>
