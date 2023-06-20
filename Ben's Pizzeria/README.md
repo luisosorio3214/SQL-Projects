@@ -48,5 +48,6 @@
 
 <p align="center">
   <h2>Data Model I created to satisfy the requirements:</h2>
+  <h3>Ben's Pizzeria Schema</h3>
   <img src="Bens Pizzeria Images/Pizzeria_Schema.PNG" title="Ben's Pizzeria Schema">
 </p>
