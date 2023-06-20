@@ -3,8 +3,9 @@
 
 <p>
   <h3>Dashboard 1 - Order Activity:</h3>
+  <p>
   For this, we will need a dashboard with the following data: 
-  
+  </p>
   <ol>
     <li>Total Orders</li>
     <li>Total Sales</li>
