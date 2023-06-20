@@ -43,3 +43,13 @@
   </ol>
   
 </p>
+
+
+<p> 
+  Here are the Dashboards I created to satisfy the requirements:
+  <P align="center">
+    <img src="Pizzeria - Dashboard Images/Pizzeria - Dashboard-2.png">
+    <img src="Pizzeria - Dashboard Images/Pizzeria - Dashboard-3.png">
+    <img src="Pizzeria - Dashboard Images/Pizzeria - Dashboard-4.png">
+  </P>
+</p>
