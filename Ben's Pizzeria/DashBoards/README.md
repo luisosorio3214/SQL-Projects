@@ -48,6 +48,11 @@
 <p> 
   <h2 align="center">Here are the Dashboards I created to satisfy the requirements:</h2>
   <P align="center">
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiM2JjNGU2MDYtMmQ1MC00YTI3LTk2M2QtZjJjYmE0NDU5ODA1IiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9">
+      Ben's Pizzeria Interactive Dashboard Link
+    </a>
+  </P>
+  <P align="center">
     <img src="Pizzeria - Dashboard Images/Pizzeria - Dashboard-2.png">
     <img src="Pizzeria - Dashboard Images/Pizzeria - Dashboard-3.png">
     <img src="Pizzeria - Dashboard Images/Pizzeria - Dashboard-4.png">
